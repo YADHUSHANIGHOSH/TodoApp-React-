@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+}
+li{
+    display: inline;
+   padding-right: 50px;
+    justify-content: space-evenly;
+}
+.headerSection {
+  width: 100%;
+  display: flex;
+  background-color: aqua;
+  justify-content: center;
+  
+  
+}
